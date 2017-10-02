@@ -1,9 +1,4 @@
 /*    
-    Emanuel Taylor
-	CSCE 3530 Program #1
-	ejt0062@unt.edu
-	9/28/17
-    
     Compilation: gcc -o client client.c
     Execution  : ./client 5000
 */
