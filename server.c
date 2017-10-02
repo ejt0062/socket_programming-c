@@ -1,9 +1,4 @@
 /* 
-    Emanuel Taylor
-	CSCE 3530 Program #1
-	ejt0062@unt.edu
-	9/28/17
-
     Compilation: gcc -o server server.c
     Execution  : ./server 5000
 */
